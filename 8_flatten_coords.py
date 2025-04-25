@@ -112,3 +112,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print(f"written {OUTPUT_CSV}")
+    print(f"written {OUTPUT_EXCEL}")
