@@ -1,0 +1,8 @@
+# new virtual environment
+python -m venv venv
+
+# activate virtual environment
+.\venv\Scripts\activate
+
+# install dependencies
+pip install pandas openpyxl
